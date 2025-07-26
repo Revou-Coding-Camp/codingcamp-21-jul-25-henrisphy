@@ -1,0 +1,11 @@
+{
+  "name": "revou-todo",
+  "version": "1.0.0",
+  "description": "Simple To-Do List",
+  "scripts": {
+    "start": "bun run server.js"
+  },
+  "dependencies": {
+    "jsonbin-api": "^1.0.0"
+  }
+}
